@@ -164,7 +164,7 @@ print(fuzzer(100, ord('0'), 10))  # string de dígitos
 - Ferramentas de redução: `creduce`, `git bisect` (para regressões), delta-debugging.
 
 ## Próximos passos daqui
-- Implemento um pequeno harness em Python para o alvo que você escolher — quer que eu crie um template de `harness.py` que roda um executável com timeout e captura a saída/return code? 
+- Implementar um pequeno harness em Python para o alvo que eu escolher — criar um template de `harness.py` que roda um executável com timeout e captura a saída/return code? 
 
 ---
 *Notas:* estas anotações expandem o capítulo inicial e os slides, priorizando o que é útil para começar um fuzzer evolutivo (decisões de fitness, representação de indivíduos e integração com sanitizers e coverage feedback).

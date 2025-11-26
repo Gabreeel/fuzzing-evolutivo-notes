@@ -1,7 +1,5 @@
 # Projeto do Rodrigo – Fuzzing de Smart Contracts
 
-> Arquivo: 04-smart-contracts/projeto-rodrigo-visao-geral.md
-
 ## 0. Referência básica
 
 - Título do artigo/trabalho: <!-- preencher -->
